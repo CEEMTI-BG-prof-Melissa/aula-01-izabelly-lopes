@@ -1,0 +1,12 @@
+h1 {
+  text-align: center;
+  leitor-spacing: 5px:
+  text-transform: uppercase;
+  text-shadow: 2px, 2px, 4px pink;
+}
+h2{
+  text-align: right;
+  word-spacing: 10px;
+  text-decoration: capitalize;
+  text-decoration-line: overline;
+  }
